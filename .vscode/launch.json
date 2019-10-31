@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Node Js",
-      "program": "${workspaceFolder}/nk/javascript/linked-lists/insert-into-linked-list.js"
+      "program": "${workspaceFolder}/nk/javascript/linked-lists/problems/problem-2-nth-node-from-end-of-linked-list.js"
     }
   ]
 }
