@@ -91,6 +91,8 @@ class SinglyLinkedList {
       'Nth Node from the end of the linked list using Hash Table: '
     );
   }
+
+  nthNodeFromEndOfLinkedListWithoutHashTable(n = 1, head = this.head) {}
 }
 
 let sll = new SinglyLinkedList();
@@ -102,3 +104,4 @@ sll.insertNode(4);
 sll.printListNodes();
 sll.nthNodeFromEndOfLinkedListUsingBruteForce(2);
 sll.nthNodeFromEndOfLinkedListUsingHashTable(2);
+sll.nthNodeFromEndOfLinkedListWithoutHashTable(2);
