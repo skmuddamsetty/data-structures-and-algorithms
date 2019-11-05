@@ -1,0 +1,1 @@
+validParanthesis = str => {};

@@ -1,0 +1,3 @@
+removeDupsFromSortedArray = () => {};
+
+removeDupsFromSortedArray([]);
