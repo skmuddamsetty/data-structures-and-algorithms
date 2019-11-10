@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Node Js",
-      "program": "${workspaceFolder}/leetcode-problems/242-valid-anagram.js"
+      "program": "${workspaceFolder}/leetcode-problems/520-detect-capital.js"
     }
   ]
 }
