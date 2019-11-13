@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Node Js",
-      "program": "${workspaceFolder}/leetcode-problems/701-insert-into-binary-tree.js"
+      "program": "${workspaceFolder}/leetcode-problems/700-search-bst.js"
     }
   ]
 }
