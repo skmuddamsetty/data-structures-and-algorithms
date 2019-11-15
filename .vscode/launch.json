@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Node Js",
-      "program": "${workspaceFolder}/leetcode-problems/700-search-bst.js"
+      "program": "${workspaceFolder}/leetcode-problems/1165-single-row-keyboard.js"
     }
   ]
 }
