@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Node Js",
-      "program": "${workspaceFolder}/leetcode-problems/1165-single-row-keyboard.js"
+      "program": "${workspaceFolder}/leetcode-problems/1213-intersection-of-three-sorted-arrays.js"
     }
   ]
 }
